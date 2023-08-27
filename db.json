@@ -1,132 +1,148 @@
 {
     "products": [
       {
-        "imageUrl": "./assets/images/sw1.webp",
+        "imageUrl": "https://images.unsplash.com/photo-1574047473179-a73921fc1eb6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1160&q=80",
         "category": "sw",
-        "name": "stars wars SECOND",
-        "price": "999",
-        "desc": "New description added-2",
+        "name": "stars wars figure",
+        "price": "299",
+        "desc": "description",
         "id": 1
       },
       {
-        "imageUrl": "./assets/images/sw2.webp",
+        "imageUrl": "https://images.unsplash.com/photo-1599719500956-d158a26ab3ee?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1171&q=80",
         "category": "sw",
-        "name": "stars wars figure ZZ",
-        "price": "11111",
-        "desc": "UPDATED NOW!",
+        "name": "stars wars figure 2",
+        "price": 149,
+        "desc": "desc",
         "id": 2
       },
       {
         "id": 3,
         "name": "stars wars figure 3",
-        "price": 149,
+        "price": 179,
         "category": "sw",
-        "imageUrl": "./assets/images/sw3.webp"
+        "desc": "desc",
+        "imageUrl": "https://images.unsplash.com/photo-1579566346927-c68383817a25?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80"
       },
       {
         "id": 4,
         "name": "stars wars figure 4",
         "price": 399,
         "category": "sw",
-        "imageUrl": "./assets/images/sw4.webp"
+        "desc": "desc",
+        "imageUrl": "https://images.unsplash.com/photo-1647109140647-ef6e013118bf?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80"
       },
       {
         "id": 5,
         "name": "stars wars figure 5",
         "price": 229,
+        "desc": "desc",
         "category": "sw",
-        "imageUrl": "./assets/images/sw5.webp"
+        "imageUrl": "https://images.unsplash.com/photo-1632579773276-1bf4f2befde6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80"
       },
       {
         "id": 6,
         "name": "stars wars figure 6",
         "price": 475,
+        "desc": "desc",
         "category": "sw",
-        "imageUrl": "./assets/images/sw6.webp"
+        "imageUrl": "https://images.unsplash.com/photo-1579972668140-f7da53ccc2a6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1171&q=80"
       },
       {
         "id": 7,
-        "name": "console",
+        "name": "console 1",
         "price": 349,
+        "desc": "desc",
         "category": "vg",
-        "imageUrl": "./assets/images/c1.webp"
+        "imageUrl": "https://images.unsplash.com/photo-1531390658120-e06b58d826ea?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=989&q=80"
       },
       {
         "id": 8,
         "name": "console 2",
         "price": 269,
+        "desc": "desc",
         "category": "vg",
-        "imageUrl": "./assets/images/c2.webp"
+        "imageUrl": "https://images.unsplash.com/photo-1494666144702-70d86c6cf884?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80"
       },
       {
         "id": 9,
         "name": "console 3",
         "price": 149,
+        "desc": "desc",
         "category": "vg",
-        "imageUrl": "./assets/images/c3.webp"
+        "imageUrl": "https://images.unsplash.com/photo-1531390770335-d94a0dacd992?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=989&q=80"
       },
       {
         "id": 10,
         "name": "console 4",
         "price": 399,
+        "desc": "desc",
         "category": "vg",
-        "imageUrl": "./assets/images/c4.webp"
+        "imageUrl": "https://images.unsplash.com/photo-1538895194639-f50554a2ca24?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1167&q=80"
       },
       {
         "id": 11,
         "name": "console 5",
         "price": 229,
+        "desc": "desc",
         "category": "vg",
-        "imageUrl": "./assets/images/c5.webp"
+        "imageUrl": "https://images.unsplash.com/photo-1634182301385-b4aef9c8eca9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80"
       },
       {
         "id": 12,
         "name": "console 6",
         "price": 475,
+        "desc": "desc",
         "category": "vg",
-        "imageUrl": "./assets/images/c6.webp"
+        "imageUrl": "https://images.unsplash.com/photo-1615503340408-006f2de60a05?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80"
       },
       {
         "id": 13,
         "name": "other",
         "price": 349,
+        "desc": "desc",
         "category": "ot",
-        "imageUrl": "./assets/images/d1.webp"
+        "imageUrl": "https://images.unsplash.com/photo-1595429035839-c99c298ffdde?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1064&q=80"
       },
       {
         "id": 14,
         "name": "other 2",
         "price": 269,
+        "desc": "desc",
         "category": "ot",
-        "imageUrl": "./assets/images/d2.webp"
+        "imageUrl": "https://images.unsplash.com/photo-1612404730960-5c71577fca11?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80"
       },
       {
         "id": 15,
         "name": "other 3",
         "price": 149,
+        "desc": "desc",
         "category": "ot",
-        "imageUrl": "./assets/images/d3.webp"
+        "imageUrl": "https://images.unsplash.com/photo-1594736797933-d0501ba2fe65?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1034&q=80"
       },
       {
         "id": 16,
         "name": "other 4",
         "price": 399,
+        "desc": "desc",
         "category": "ot",
-        "imageUrl": "./assets/images/d4.webp"
+        "imageUrl": "https://images.unsplash.com/photo-1608889175638-9322300c46e8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1160&q=80"
       },
       {
         "id": 17,
         "name": "other 5",
         "price": 229,
+        "desc": "desc",
         "category": "ot",
-        "imageUrl": "./assets/images/d5.webp"
+        "imageUrl": "https://images.unsplash.com/photo-1608889462247-ce07fe5a2756?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1160&q=80"
       },
       {
         "id": 18,
         "name": "other 6",
         "price": 475,
+        "desc": "desc",
         "category": "ot",
-        "imageUrl": "./assets/images/d6.webp"
+        "imageUrl": "https://images.unsplash.com/photo-1608889335932-3030fa378fcb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1160&q=80"
       },
       {
         "name": "Abstract Figure",
@@ -135,22 +151,6 @@
         "desc": "Blue ocen abstract figure from Artthemist 2023 conf, limited edition.",
         "imageUrl": "https://images.unsplash.com/photo-1691443297137-68818fe7bce9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwxMHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=600&q=60",
         "id": "52141ce5-7e9e-40d4-9653-0d2642c087e2"
-      },
-      {
-        "name": "Bulb Calid Zone",
-        "price": "2999",
-        "category": "ot",
-        "desc": "Calid light bulb, alexa compatible.",
-        "imageUrl": "https://images.unsplash.com/photo-1691531315982-f6bccf4bd875?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwzfHx8ZW58MHx8fHx8&auto=format&fit=crop&w=600&q=60",
-        "id": "2641fece-4bf2-4ba4-bed8-155d18663fad"
-      },
-      {
-        "imageUrl": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fHByb2R1Y3R8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=600&q=60",
-        "category": "ot",
-        "name": "Smart Watch GT-3",
-        "price": "6800",
-        "desc": "Smart watch UPDATEDDDDDDDDDDDDDDDDDD",
-        "id": "bf41425e-3c14-4049-9a9c-a61335242206"
       },
       {
         "name": "GB Edition(POKEMON)",
